@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Roll-the-Dice/static/css/main.eb351b82.chunk.css",
+    "main.js": "/Roll-the-Dice/static/js/main.97427bec.chunk.js",
+    "main.js.map": "/Roll-the-Dice/static/js/main.97427bec.chunk.js.map",
+    "runtime-main.js": "/Roll-the-Dice/static/js/runtime-main.bdb9545d.js",
+    "runtime-main.js.map": "/Roll-the-Dice/static/js/runtime-main.bdb9545d.js.map",
+    "static/js/2.edcd83a2.chunk.js": "/Roll-the-Dice/static/js/2.edcd83a2.chunk.js",
+    "static/js/2.edcd83a2.chunk.js.map": "/Roll-the-Dice/static/js/2.edcd83a2.chunk.js.map",
+    "index.html": "/Roll-the-Dice/index.html",
+    "static/css/main.eb351b82.chunk.css.map": "/Roll-the-Dice/static/css/main.eb351b82.chunk.css.map",
+    "static/js/2.edcd83a2.chunk.js.LICENSE.txt": "/Roll-the-Dice/static/js/2.edcd83a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdb9545d.js",
+    "static/js/2.edcd83a2.chunk.js",
+    "static/css/main.eb351b82.chunk.css",
+    "static/js/main.97427bec.chunk.js"
+  ]
+}
