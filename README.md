@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+You can see the working application [here](https://jack-2077.github.io/Roll-the-Dice/)
 
 ## Available Scripts
 
